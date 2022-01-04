@@ -1,0 +1,87 @@
+@media screen and (max-width:1175px){
+    .isara-9-message{
+        display:flex;
+        width:80%;
+        margin:0;
+        text-align:left;
+        margin-bottom:40px;
+    }
+
+    .isara-9-message img{
+        width:40%;
+        height:40%;
+        border:2px solid #EBB94D; 
+    }
+}
+
+@media screen and (max-width:975px){
+    .isara-7{
+        background:url(teacherbg.jpg) no-repeat center center;
+        height:1545px;
+        background-repeat: no-repeat;
+        background-size: auto 1545px;
+        background-size:cover;
+        text-align:center;
+        margin:0;
+    }
+
+    .isara-7-person{
+    display:flex;
+    flex-flow: column;
+    padding-top:185px;
+    }
+
+    .isara-7-profile{
+        width:80%;
+        margin:0 auto;
+        margin-bottom:185px;
+    }
+}
+
+@media screen and (max-width:960px){
+
+    .isara-9{
+        font-size:14px;
+        text-align:center;
+    }
+
+    .isara-9-message{
+        display:flex;
+        width:90%;
+        margin:0;
+        text-align:left;
+        margin-left:20px;
+        margin-bottom:40px;
+    }
+
+}
+
+@media screen and (max-width:765px){
+    .inquiry{
+        display:none;
+    }
+
+    .header-form{
+        margin:0 auto;
+        margin-top:5px;
+        width:24px;
+        height:24px;
+    }
+
+    .header-inquiry2{
+        display:block;
+        background-color:#D84940;
+        color:#ffffff;
+        width:75px;
+        height:60px;
+        
+        font-size:12px;
+    }
+
+    .inquiry-responsive{
+        color:#ffffff;
+        display:block;
+        text-align:center;
+        text-decoration: none;
+    }
+}
